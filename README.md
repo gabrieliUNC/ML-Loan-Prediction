@@ -1,2 +1,2 @@
 # Loan Prediction Machine Learning
-## Using Various ML models such as Logistic Regression and Bagging on Gradient Boosting
+## Implementation and Data for the [Loan Prediction Paper](https://github.com/gabrieliUNC/ML-Loan-Prediction-Paper)
